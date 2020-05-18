@@ -4,6 +4,8 @@ Permite um código mais claro e mais enxurto.
 
 não acontece hoisting.
 
+não podemos criar criar funções construtoras com usando arrow functions.
+
 */
 
 
