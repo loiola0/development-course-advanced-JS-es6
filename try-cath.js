@@ -19,6 +19,6 @@ try{
 }catch(err){
     console.log('Error: ',err);
 }finally{
-    console.log('Seja Bem Vindo...');
+    console.log('%c Seja Bem Vindo...','color:red; font-size: 40px');
 }
 
